@@ -34,7 +34,7 @@ $PROJECT_ROOT
 └── server.js
 ```
 
-## Installation
+## ✅ Installation
 
 If you wish to run this app locally, clone this repo and install the dependencies.
 
