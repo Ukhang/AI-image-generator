@@ -61,14 +61,19 @@ $ cd client
 npm intall
 ```
 
-4. Run your development server:
+5. Run your frontend development server:
+```bash
+$ cd client
+```
+```bash
+npm run start
+```
+
+5. Run your backend development server:
 ```bash
 npm run dev
 ```
 
-## App Design
-#### Light 🌞 |  Dark 🌙
-![prg](https://user-images.githubusercontent.com/94834060/202715850-ddfaf13f-2f7f-43ce-956a-016d03dab11f.PNG)
 
 ## License
 Number converter is releashed under the [MIT License](https://choosealicense.com/licenses/mit/)
