@@ -36,7 +36,6 @@ const App = () => {
 
       if (acutalData.prompt) {
           generateImageRequest(acutalData.prompt, acutalData.size);
-          document.querySelector('form')?.reset();
       } else {
         setError({
             status: true,
