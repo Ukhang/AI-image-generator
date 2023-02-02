@@ -76,4 +76,4 @@ npm run dev
 
 
 ## License
-Number converter is releashed under the [MIT License](https://choosealicense.com/licenses/mit/)
+Number converter is releashed under the [MIT License](https://github.com/Ukhang/AI-image-generator/blob/main/LICENSE)
