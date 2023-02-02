@@ -3,6 +3,12 @@ Generate your desired image. I have created this application with the help of <a
 
 <a href="https://ukhang.github.io/AI-image-generator/">Live 🚀</a>
 
+## 👨‍💻 Stack
+- [React](https://nextjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Node.js](https://tailwindcss.com/)
+- [Express.js](https://tailwindcss.com/)
+
 ## 📁 Project Structure
 #### Frontend
 
