@@ -4,10 +4,12 @@ Generate your desired image. I have created this application with the help of <a
 <a href="https://ukhang.github.io/AI-image-generator/">Live 🚀</a>
 
 ## 👨‍💻 Stack
-- [React](https://nextjs.org/)
+- [React + Typescript](https://react-typescript-cheatsheet.netlify.app/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Node.js](https://tailwindcss.com/)
-- [Express.js](https://tailwindcss.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Express.js](https://expressjs.com/)
+- [OpenAI-Node](https://www.npmjs.com/package/openai)
+
 
 ## 📁 Project Structure
 #### Frontend
